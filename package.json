@@ -1,0 +1,12 @@
+{
+  "name": "longtaketouch",
+  "version": "1.0.1",
+  "description": "Smooth scrolling.顺滑的位移数字",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "anderpang@foxmail.com",
+  "license": "ISC"
+}
